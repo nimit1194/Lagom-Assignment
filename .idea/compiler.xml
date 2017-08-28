@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="external-service-impl" target="1.8" />
+      <module name="hello-lagom-impl" target="1.8" />
+      <module name="hello-lagom-stream-impl" target="1.8" />
+      <module name="lagom-consumer-impl" target="1.8" />
+      <module name="unmanaged-services-impl" target="1.8" />
+      <module name="welcome-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
